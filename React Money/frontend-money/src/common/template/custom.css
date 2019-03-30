@@ -1,0 +1,9 @@
+.main-footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+button{
+    margin-left: 5px;
+}
